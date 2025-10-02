@@ -1,6 +1,4 @@
-This is the project page for the Freecad implementation of Christoph Laimer's parametric Slew Bearing. The goal of this page is to provide complete instructions, component lists, HW and SW files to build this project from start to finish.
-
-https://www.youtube.com/watch?v=5o4Fj8OxkB8
+This is the project page for the Freecad implementation of Christoph Laimer's parametric Slew Bearing (https://www.youtube.com/watch?v=5o4Fj8OxkB8). The goal of this page is to provide complete instructions, component lists, HW and SW files to build this project from start to finish.
 
  <img width="810" height="463" alt="image" src="https://github.com/user-attachments/assets/c498829c-af05-4288-8715-ecf349ef3743" />
 
